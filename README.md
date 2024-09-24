@@ -1,0 +1,1 @@
+I guess this only supports Garmin Forerunner 245 for now?
